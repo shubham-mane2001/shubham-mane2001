@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubham-mane2001
-- 👀 I’m interested in web development like MERN and MEAN
+- 👀 I’m interested in web development like MERN and MEAN stack
 - 📫 How to reach me on mail 'shubhammane3011@gmail.com'
 
 <!---
